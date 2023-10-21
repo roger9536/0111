@@ -1,0 +1,174 @@
+#EXTINF:-1,PREMIER SPORTS 2 (uk)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/24837
+#EXTINF:-1,ARENA SPORT 3 (HR)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49185
+#EXTINF:-1,EUROSPORT 1 HD (UK)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49226
+#EXTINF:-1,EUROSPORT 2 HD (UK)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49227
+#EXTINF:-1,EUROSPORT 1 (FR)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49228
+#EXTINF:-1,EUROSPORT 2 (FR)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49229
+#EXTINF:-1,DAZN BAR 1 HD (DE)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49230
+#EXTINF:-1,DAZN BAR 2 HD (DE)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49231
+#EXTINF:-1,SKY SPORTS F1 (UK)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49247
+#EXTINF:-1,ELEVEN SPORT 1 HD (PL)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49280
+#EXTINF:-1,ELEVEN SPORT 2 HD (PL)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49281
+#EXTINF:-1,C MORE LIVE (SW)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49314
+#EXTINF:-1,C MORE FOTBOLL(SW)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49317
+#EXTINF:-1,RMC SPORT 1 (FR)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49322
+#EXTINF:-1,RMC SPORT 2 (FR)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49323
+#EXTINF:-1,NOVA SPORT (BG)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/49327
+#EXTINF:-1,AL KASS 1
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/51831
+#EXTINF:-1,AL KASS 4
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/51832
+#EXTINF:-1,GalatasarayTV HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/51840
+#EXTINF:-1,SportTV (TR)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/51841
+#EXTINF:-1,BEIN SPORTS 1 (AR)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/51993
+#EXTINF:-1,AF: SUPERSPORT 2 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52025
+#EXTINF:-1,AF: SUPERSPORT 4 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52027
+#EXTINF:-1,AF:  SUPERSPORT 5 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52028
+#EXTINF:-1,DSTV: SUPERSPORTS 2 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52038
+#EXTINF:-1,DSTV: SUPERSPORTS 3 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52039
+#EXTINF:-1,DSTV: SUPERSPORTS 5 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52041
+#EXTINF:-1,DSTV: SUPERSPORTS 6 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52042
+#EXTINF:-1,DSTV: SUPERSPORTS 8 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52044
+#EXTINF:-1,DSTV: SUPERSPORTS 9 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52045
+#EXTINF:-1,DSTV: SUPERSPORTS 10 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52046
+#EXTINF:-1,DSTV: SUPERSPORTS 11 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52047
+#EXTINF:-1,DSTV: SUPERSPORTS 12 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52048
+#EXTINF:-1,PREMIER SPORT 1 (UK)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/24834
+#EXTINF:-1,AR beIN Sports 13 UHD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52444
+#EXTINF:-1,|TR| BEIN SPORTS HABER FHD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52447
+#EXTINF:-1,|TR| BEIN SPORTS 1 FHD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52448
+#EXTINF:-1,|TR| BEIN SPORTS 3 FHD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52450
+#EXTINF:-1,|TR| BEIN SPORTS 4 FHD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/52451
+#EXTINF:-1,MY: ASTRO SPORTS 1
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/55543
+#EXTINF:-1,MY : ASTRO SPORTS 2
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/55544
+#EXTINF:-1,MY : ASTRO SPORTS 3
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/55545
+#EXTINF:-1,MY : ASTRO SPORTS 4
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/55546
+#EXTINF:-1,BT Sport 2 HD local
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/56701
+#EXTINF:-1,BT SPORT ESPN HD (UK)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58883
+#EXTINF:-1,NOVA SPORT (SR)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58892
+#EXTINF:-1,SR | SPORT KLUB 1
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58900
+#EXTINF:-1,HR | SPORT KLUB 1
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58901
+#EXTINF:-1,SR | SPORT KLUB 2
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58902
+#EXTINF:-1,HR | SPORT KLUB 2 
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58903
+#EXTINF:-1,SR | SPORT KLUB 3
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58904
+#EXTINF:-1,HR | SPORT KLUB 3
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58905
+#EXTINF:-1,SR | SPORT KLUB 4
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58906
+#EXTINF:-1,HR | SPORT KLUB 4
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58907
+#EXTINF:-1,SR | SPORT KLUB 5
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58908
+#EXTINF:-1,HR | SPORT KLUB 5
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58909
+#EXTINF:-1,SR | SPORT KLUB 6
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58910
+#EXTINF:-1,HR | SPORT KLUB 6
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58911
+#EXTINF:-1,SPORT KLUB 7 (HR)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58912
+#EXTINF:-1,HR | SPORT KLUB GOLF
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58913
+#EXTINF:-1,SPORT KLUB HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58914
+#EXTINF:-1,IN- Sony Ten 2
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/65901
+#EXTINF:-1,IN- Sony Ten 3 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/65902
+#EXTINF:-1,N- Sony Ten 1 HD
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/65903
+#EXTINF:-1,PK | One Golf
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/67472
+#EXTINF:-1,CA | TSN 4
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/54514
+#EXTINF:-1,CANAL+ SPORT HD FR
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/5478
+#EXTINF:-1,BEIN SPORTS 3 HD FR
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/5481
+#EXTINF:-1,RMC SPORT 1 HD FR
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/5484
+#EXTINF:-1,AR : BEIN SPORTS 01 (LOCAL)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58570
+#EXTINF:-1,AR : BEIN SPORTS 02 (LOCAL)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58571
+#EXTINF:-1,AR : BEIN SPORTS 04 (LOCAL)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58573
+#EXTINF:-1,AR : BEIN SPORTS 03 (LOCAL)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58572
+#EXTINF:-1,AR : BEIN SPORTS 05 (LOCAL)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58574
+#EXTINF:-1,AR : BEIN SPORTS 06 (LOCAL)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58575
+#EXTINF:-1,AR : BEIN SPORTS 07 (LOCAL) 
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58576
+#EXTINF:-1,AR : BEIN SPORTS 09 (LOCAL) 
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58578
+#EXTINF:-1,EN : BEIN SPORTS 11 (LOCAL)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58580
+#EXTINF:-1,EN : BEIN SPORTS 12 (LOCAL)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58581
+#EXTINF:-1,EN : BEIN SPORTS 13 (LOCAL)
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/58582
+#EXTINF:-1,Bein Sport Premium 1 HD Local
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/66934
+#EXTINF:-1,Bein Sport Premium 2 HD Local
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/66935
+#EXTINF:-1,Bein Sport Premium 3 HD Local
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/66936
+#EXTINF:-1,Bein Sport Local
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/66937
+#EXTINF:-1,Bein Sports News local
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/66938
+#EXTINF:-1,Bein Sport XTRA 1 local
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/66939
+#EXTINF:-1,Bein Sport XTRA 2 local
+http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/74155
